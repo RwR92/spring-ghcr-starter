@@ -1,5 +1,0 @@
-services:
-  app:
-    image: ghcr.io/rwr92/spring-ghcr-starter:latest
-    ports:
-      - "8090:8080"
